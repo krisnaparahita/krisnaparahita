@@ -26,7 +26,7 @@ A private multilingual medical RAG benchmark comparing:
 - Cross-encoder reranking
 - English-only and bilingual English/Bahasa configurations
 
-Remus is research software, not clinical decision support. Its final benchmark still requires data preparation and clinician validation, so I do not present it as a completed clinical evaluation.
+Remus is research software exploring retrieval and reranking strategies for multilingual medical question answering.
 
 ### [Professional portfolio](https://krisnaparahita.github.io/)
 
@@ -38,14 +38,10 @@ I contribute focused fixes, documentation, tests, infrastructure references, and
 
 ### Merged
 
-These contributions have been accepted and merged by project maintainers:
-
 - [WeblateOrg/weblate #21606](https://github.com/WeblateOrg/weblate/pull/21606): `fix(checks): link overview totals to unit search`
 - [griptape-ai/griptape #2339](https://github.com/griptape-ai/griptape/pull/2339): `chore: enable Ruff PLW1641 rule`
 
-### Open / pending
-
-These pull requests remain open or pending review. They are proposed changes, not completed contributions:
+### In review
 
 - [Kiln-AI/Kiln #1767](https://github.com/Kiln-AI/Kiln/pull/1767): `Fix Linux tray icon scaling`
 - [marqo-ai/marqo #1481](https://github.com/marqo-ai/marqo/pull/1481): `Add index storage size to stats response`
