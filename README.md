@@ -6,7 +6,6 @@ I build and lead AI, data, and financial platforms in regulated environments. Ac
 
 I currently lead Islamic Banking-as-a-Service technology at Maybank Islamic. Previously, as Head of Product & Data Platforms at LinkAja, I worked on e-KYC, fraud detection, credit scoring, LLM-powered analytics, and a payments platform serving more than 12 million verified users.
 
-I am looking for Technical Product Manager opportunities where product decisions require commercial judgment, technical depth, and an understanding of regulated systems.
 
 ## Selected Work
 
