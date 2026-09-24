@@ -1,69 +1,31 @@
 # Krisna Parahita
 
-### Technical Product Manager - AI & Data Platforms
+### Technology leader | AI and data platforms
 
 I build and lead AI, data, and financial platforms in regulated environments. Across more than 15 years, I have worked in product management, software engineering, platform architecture, data systems, and technology leadership.
 
-I currently lead Islamic Banking-as-a-Service technology at Maybank Islamic. Previously, as Head of Product & Data Platforms at LinkAja, I worked on e-KYC, fraud detection, credit scoring, LLM-powered analytics, and a payments platform serving more than 12 million verified users.
+I currently lead technology for a cloud-native Islamic Banking-as-a-Service platform at Maybank Islamic. Previously, as VP of Product and Data Platform at LinkAja, I built the data and AI capabilities behind a payments platform serving more than 12 million verified users, including e-KYC, fraud detection, credit scoring, and LLM-powered access to company data.
 
+## What I work on
 
-## Selected Work
+- **AI systems and orchestration:** multi-agent systems for executive and enterprise use, with always-on workflows, controlled tool access, and multi-model routing with automatic fallback.
+- **Data platforms and generative AI:** cloud data architecture, pipeline orchestration, governance, and secure LLM access to company data.
+- **Retrieval-augmented generation:** retrieval strategy, reranking, and evaluation of RAG systems.
+- **Advisory:** AI and data platform strategy, architecture, and delivery for regulated industries. I take on a small number of consulting engagements.
 
-### [Natasha](https://github.com/krisnaparahita/Natasha)
+## Open source
 
-A multi-agent Slack system backed by Claude Code and Codex CLI.
+I contribute focused fixes, documentation, and features to open-source AI, data, and developer tooling projects, with 5 merged pull requests to date.
 
-I have built and iterated its configurable model backends, specialist agent personas, delegated execution, session continuity, listener resilience, external-model fallback, and cross-device memory workflow through 10 merged pull requests in the repository.
+## How I work
 
-### Remus
-
-A private multilingual medical RAG benchmark comparing:
-
-- No-RAG
-- BM25
-- FAISS with BGE-M3 embeddings
-- Hybrid retrieval
-- Cross-encoder reranking
-- English-only and bilingual English/Bahasa configurations
-
-Remus is research software exploring retrieval and reranking strategies for multilingual medical question answering.
-
-### [Professional portfolio](https://krisnaparahita.github.io/)
-
-A summary of my product, technology, fintech, AI, data-platform, and regulatory experience.
-
-## Open Source Contributions
-
-I contribute focused fixes, documentation, tests, infrastructure references, and platform features to external open-source projects.
-
-### Merged
-
-- [WeblateOrg/weblate #21606](https://github.com/WeblateOrg/weblate/pull/21606): `fix(checks): link overview totals to unit search`
-- [griptape-ai/griptape #2339](https://github.com/griptape-ai/griptape/pull/2339): `chore: enable Ruff PLW1641 rule`
-
-### In review
-
-- [Kiln-AI/Kiln #1767](https://github.com/Kiln-AI/Kiln/pull/1767): `Fix Linux tray icon scaling`
-- [marqo-ai/marqo #1481](https://github.com/marqo-ai/marqo/pull/1481): `Add index storage size to stats response`
-- [guidance-ai/guidance #1517](https://github.com/guidance-ai/guidance/pull/1517): `docs: add FAQ for model-specific prompts`
-- [llmware-ai/llmware #1314](https://github.com/llmware-ai/llmware/pull/1314): `Add Kubernetes reference deployment`
-- [WeblateOrg/weblate #21605](https://github.com/WeblateOrg/weblate/pull/21605): `feat(components): add separate browser URL for translation files`
-- [weaviate/weaviate-io #3695](https://github.com/weaviate/weaviate-io/pull/3695): `test: add in-page anchor link checks`
-- [griptape-ai/griptape #2340](https://github.com/griptape-ai/griptape/pull/2340): `feat(drivers-vector-store): support regular inserts in BaseVectorStoreDriver`
-- [pathwaycom/pathway #274](https://github.com/pathwaycom/pathway/pull/274): `feat: allow setting query transformers in BaseRAGQuestionAnswerer`
-
-## How I Work
-
-I use Claude Code and Codex as part of my engineering practice for understanding repositories, implementing focused changes, testing assumptions, and reviewing the resulting work.
-
-Natasha is the clearest public example of this approach. It combines multiple specialist agents, configurable execution backends, session continuity, and delegated work within explicit tool and access boundaries.
+I use Claude Code and Codex as part of my engineering practice for understanding codebases, implementing focused changes, testing assumptions, and reviewing the result.
 
 AI assistance does not remove accountability. I remain responsible for problem framing, technical constraints, verification, and every change I submit.
 
-I approach product work similarly: connect user and commercial outcomes to architecture, data, delivery risk, and regulatory requirements, while staying close enough to implementation to challenge assumptions.
+I approach product work the same way: connect user and commercial outcomes to architecture, data, delivery risk, and regulatory requirements, while staying close enough to implementation to challenge assumptions.
 
 ## Links
 
 - [Portfolio](https://krisnaparahita.github.io/)
-- [GitHub](https://github.com/krisnaparahita)
 - [LinkedIn](https://www.linkedin.com/in/krisna-parahita/)
