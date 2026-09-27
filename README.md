@@ -4,7 +4,7 @@
 
 I build and lead AI, data, and financial platforms in regulated environments. Across more than 15 years, I have worked in product management, software engineering, platform architecture, data systems, and technology leadership.
 
-I currently lead technology for a cloud-native Islamic Banking-as-a-Service platform at Maybank Islamic. Previously, as VP of Product and Data Platform at LinkAja, I built the data and AI capabilities behind a payments platform serving more than 12 million verified users, including e-KYC, fraud detection, credit scoring, and LLM-powered access to company data.
+I currently lead technology for a cloud-native Islamic Banking-as-a-Service platform at Maybank Islamic. Previously, as VP of Product and Data Platform at LinkAja, I built the data and AI capabilities behind a payments platform serving more than 12 million verified users, including e-KYC, fraud detection, credit scoring, and LLM-powered access to company data. I hold a BEng in Electrical Engineering from Universitas Brawijaya and have studied Artificial Intelligence at the graduate level at Universität zu Lübeck, Germany.
 
 ## What I work on
 
@@ -29,7 +29,7 @@ I currently lead technology for a cloud-native Islamic Banking-as-a-Service plat
 
 ## Open source
 
-I contribute focused fixes, documentation, and features to open-source AI, data, and developer tooling projects, with 5 merged pull requests to date.
+I contribute to open-source projects in areas I use in my own work, including agentic AI frameworks, computer vision and dataset tooling, and developer and localization tooling.
 
 ## How I work
 
